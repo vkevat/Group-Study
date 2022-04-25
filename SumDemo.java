@@ -4,8 +4,9 @@ class SumDemo{
 
 	int a=10;
 	int b=10;
+	int c=10;
 
-	System.out.println("The Sum is "+(a+b));
+	System.out.println("The Sum is "+(a+b+c));
 
 	}
 
